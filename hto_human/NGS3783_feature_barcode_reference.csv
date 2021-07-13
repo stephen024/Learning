@@ -1,6 +1,0 @@
-id,name,read,pattern,sequence,feature_type
-Desert,B0251,R2,5PNNNNNNNNNN(BC),GTCAACTCTTTAGCG,Antibody Capture
-Inflamed,B0252,R2,5PNNNNNNNNNN(BC),TGATGGCCTATTGGG,Antibody Capture
-Excluded,B0253,R2,5PNNNNNNNNNN(BC),TTCCGCCTCTCTTTG,Antibody Capture
-Excluded,B0254,R2,5PNNNNNNNNNN(BC),AGTAAGTTCAGCGTA,Antibody Capture
-Excluded,B0255,R2,5PNNNNNNNNNN(BC),AAGTATCGTTTCGCA,Antibody Capture
